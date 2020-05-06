@@ -1,0 +1,17 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.navbar {
+  background: #a0522d;
+  font-size: 1rem;
+}
+.navbar-brand {
+  font-size: 2rem;
+  /* color: black !important; */
+}
+
+#search {
+  background: #fff8dc !important;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
